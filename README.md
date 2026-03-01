@@ -137,6 +137,6 @@ Se tiver interesse, é só me chamar 👊
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=190&text=%22Programar%20n%C3%A3o%20%C3%A9%20s%C3%B3%20escrever%20c%C3%B3digo%2C%20%C3%A9%20criar%20algo%20vivo%20que%20serve%20a%20todos!%22&fontColor=ffffff&fontSize=22&color=0:5362f1,50:5362f1,100:5362f1&desc=Jeff%20Atwood%20-%20%F0%9F%92%BB&descSize=18&descAlignY=70&descColor=8a2be2"
+    src="https://capsule-render.vercel.app/api?type=rect&height=190&text=%22Programar%20n%C3%A3o%20%C3%A9%20s%C3%B3%20escrever%20c%C3%B3digo%2C%20%C3%A9%20criar%20algo%20vivo%20que%20serve%20a%20todos!%22&fontColor=ffffff&fontSize=22&color=0:3a44a3,50:3a44a3,100:3a44a3&desc=Jeff%20Atwood%20-%20%F0%9F%92%BB&descSize=18&descAlignY=70&descColor=8a2be2"
   />
 </p>
