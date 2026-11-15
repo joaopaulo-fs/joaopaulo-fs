@@ -105,13 +105,9 @@
 
 <h2>🚀 Minhas estatísticas no GitHub</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopaulo-fs&show_icons=true&bg_color=0d1117&title_color=5362f1&text_color=ffffff&icon_color=53362f1" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaopaulo-fs&layout=compact&hide_border=false&bg_color=0d1117&title_color=5362f1&text_color=ffffff&icon_color=5362f1&custom_title=Linguagens+Mais+Usadas" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulo-fs&radius=16&area=true&hide_border=false&custom_title=Gráfico+de+Atividades&color=5362f1&line=5362f1&point=5362f1&bg_color=0d1117&area_color=5362f1" alt="Gráfico de Atividades" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=joaopaulo-fs&show_icons=true&count_private=true&hide_border=true&title_color=5362f1&icon_color=5362f1&text_color=c9d1d9&bg_color=0d1117" alt="Minhas GitHub Stats"/>  
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaopaulo-fs&layout=compact&hide_border=true&title_color=5362f1&text_color=5362f1&bg_color=0d1117" />
 </div>
 
 ---
